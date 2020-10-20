@@ -5,5 +5,5 @@ import (
 )
 
 func SayHello(name string) string {
-	return fmt.Sprintf("你好,%s", name)
+	return fmt.Sprintf("你ye 好,%s", name)
 }
